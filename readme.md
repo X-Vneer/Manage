@@ -1,7 +1,7 @@
 # Tailwind Manage Landing Page
 
 This is a Landing page using TailwindCss
-[check it out](https://x-vneer.github.io/manage/)
+[check it out](https://x-vneer.github.io/Manage/)
 
 ![Alt text](dist/assets/img/screen.png?raw=true)
 
